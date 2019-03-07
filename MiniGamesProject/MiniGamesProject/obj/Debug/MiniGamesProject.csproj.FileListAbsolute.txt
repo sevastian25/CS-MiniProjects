@@ -1,0 +1,7 @@
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\bin\Debug\MiniGamesProject.exe.config
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\bin\Debug\MiniGamesProject.exe
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\bin\Debug\MiniGamesProject.pdb
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\obj\Debug\MiniGamesProject.csprojAssemblyReference.cache
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\obj\Debug\MiniGamesProject.csproj.CoreCompileInputs.cache
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\obj\Debug\MiniGamesProject.exe
+C:\Users\2640\source\repos\MiniGamesProject\MiniGamesProject\obj\Debug\MiniGamesProject.pdb
