@@ -1,0 +1,6 @@
+C:\Users\2640\source\repos\ForLoppOddNumbers\ForLoppOddNumbers\bin\Debug\ForLoppOddNumbers.exe.config
+C:\Users\2640\source\repos\ForLoppOddNumbers\ForLoppOddNumbers\bin\Debug\ForLoppOddNumbers.exe
+C:\Users\2640\source\repos\ForLoppOddNumbers\ForLoppOddNumbers\bin\Debug\ForLoppOddNumbers.pdb
+C:\Users\2640\source\repos\ForLoppOddNumbers\ForLoppOddNumbers\obj\Debug\ForLoppOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\2640\source\repos\ForLoppOddNumbers\ForLoppOddNumbers\obj\Debug\ForLoppOddNumbers.exe
+C:\Users\2640\source\repos\ForLoppOddNumbers\ForLoppOddNumbers\obj\Debug\ForLoppOddNumbers.pdb
