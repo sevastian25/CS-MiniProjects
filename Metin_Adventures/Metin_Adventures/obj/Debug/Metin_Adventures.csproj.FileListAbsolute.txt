@@ -1,0 +1,7 @@
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\bin\Debug\Metin_Adventures.exe.config
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\bin\Debug\Metin_Adventures.exe
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\bin\Debug\Metin_Adventures.pdb
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\obj\Debug\Metin_Adventures.csprojAssemblyReference.cache
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\obj\Debug\Metin_Adventures.csproj.CoreCompileInputs.cache
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\obj\Debug\Metin_Adventures.exe
+C:\Users\2640\source\repos\Metin_Adventures\Metin_Adventures\obj\Debug\Metin_Adventures.pdb
