@@ -1,0 +1,6 @@
+C:\Users\2640\source\repos\SumDigitsofANumber\SumDigitsofANumber\bin\Debug\SumDigitsofANumber.exe.config
+C:\Users\2640\source\repos\SumDigitsofANumber\SumDigitsofANumber\bin\Debug\SumDigitsofANumber.exe
+C:\Users\2640\source\repos\SumDigitsofANumber\SumDigitsofANumber\bin\Debug\SumDigitsofANumber.pdb
+C:\Users\2640\source\repos\SumDigitsofANumber\SumDigitsofANumber\obj\Debug\SumDigitsofANumber.csproj.CoreCompileInputs.cache
+C:\Users\2640\source\repos\SumDigitsofANumber\SumDigitsofANumber\obj\Debug\SumDigitsofANumber.exe
+C:\Users\2640\source\repos\SumDigitsofANumber\SumDigitsofANumber\obj\Debug\SumDigitsofANumber.pdb
