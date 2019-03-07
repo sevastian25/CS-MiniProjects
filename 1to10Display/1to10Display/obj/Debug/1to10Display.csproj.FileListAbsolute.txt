@@ -1,0 +1,6 @@
+C:\Users\2640\source\repos\1to10Display\1to10Display\bin\Debug\1to10Display.exe.config
+C:\Users\2640\source\repos\1to10Display\1to10Display\bin\Debug\1to10Display.exe
+C:\Users\2640\source\repos\1to10Display\1to10Display\bin\Debug\1to10Display.pdb
+C:\Users\2640\source\repos\1to10Display\1to10Display\obj\Debug\1to10Display.csproj.CoreCompileInputs.cache
+C:\Users\2640\source\repos\1to10Display\1to10Display\obj\Debug\1to10Display.exe
+C:\Users\2640\source\repos\1to10Display\1to10Display\obj\Debug\1to10Display.pdb
